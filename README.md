@@ -80,7 +80,6 @@ The initial prototype includes the following core functionalities:
    ```bash
    git clone https://github.com/your-username/ecofinds.git
    cd ecofinds
-````
 
 2. Install dependencies:
 
