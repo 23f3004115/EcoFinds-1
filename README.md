@@ -133,8 +133,3 @@ This project is open source and available under the [MIT License](LICENSE).
 EcoFinds is more than an app — it's a movement toward a greener, more sustainable future. Start listing, start shopping, and start making a difference.
 
 ```
-
----
-
-Let me know if you'd like the README translated into another language, if you want to include images/screenshots, or if you want to generate badges for GitHub (e.g., for build status, license, etc.).
-```
